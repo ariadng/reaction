@@ -13,10 +13,10 @@ npm run dev
 Example output:
 
 ```
-VITE v4.1.4  ready in 661 ms
+VITE v4.1.4  ready in 428 ms
 
 ➜  Local:   http://localhost:5173/
-➜  Network: use --host to expose
+➜  Network: http://172.16.5.4:5173/
 ➜  press h to show help
 ```
 
